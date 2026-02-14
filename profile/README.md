@@ -2,10 +2,11 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CHORIPER&fontAlign=50&fontAlignY=35&desc=Providing%20game%20tools%20and%20modular%20APIs%20for%20the%20Choriper%20System&descAlign=50&descAlignY=55&color=0:0b0f14,100:16a34a"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CHORIPER&fontAlign=50&fontAlignY=35&desc=Modular%20APIs%20and%20tools%20for%20the%20Choriper%20System&descAlign=50&descAlignY=55&color=0:0b0f14,100:16a34a"
     alt="Choriper banner"
   />
 </p>
+
 
 <p align="center">
   <a href="https://choriper.com/" target="_blank">
